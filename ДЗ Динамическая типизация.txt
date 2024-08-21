@@ -1,3 +1,4 @@
+Как в задании
 name="Irina"
 print(name)
 age=18
@@ -6,3 +7,13 @@ age=18+2
 print(age)
 is_student=True
 print(is_student)
+
+Как в примере:
+name="Irina"
+print("Name:",name)
+age="18"
+print("Age:",age)
+age=str(18+2)
+print("New age:", age)
+is_student=True
+print("Is Student:",is_student)
