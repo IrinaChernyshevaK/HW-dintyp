@@ -1,0 +1,8 @@
+name="Irina"
+print(name)
+age=18
+print(age)
+age=18+2
+print(age)
+is_student=True
+print(is_student)
